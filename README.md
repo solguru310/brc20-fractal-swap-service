@@ -1,5 +1,5 @@
 # brc20-fractal-swap-service
-This service facilitates the exchange of BRC-20 tokens, leveraging the ordinal theory-based BRC-20 token standard, by establishing a liquidity pool for swapping between different token types.
+This #swap #service enables seamless exchange of #BRC20 #tokens on the #Bitcoin network, utilizing #ordinal theory to support the #BRC-20 token #standard. Built on the #Fractal platform, it establishes a robust #liquidity #pool for efficient #swapping between various #token types.
 
 This project utilizes a decentralized Automated Market Maker (AMM) to enable the swapping of BRC-20 tokens based on ordinal theory. It supports exchanges between BRC-20 tokens and other token types through a liquidity pool mechanism.
 
@@ -209,4 +209,4 @@ If you have technical issues & development inquires, please contact here.
 
 Telegram: [@dwlee918](https://t.me/@dwlee918)
 
-X: [@derricklee918](https://x.com/derricklee918)
+X: [@dwlee918](https://x.com/dwlee918)
