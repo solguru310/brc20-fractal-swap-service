@@ -209,4 +209,4 @@ If you have technical issues & development inquires, please contact here.
 
 Telegram: [@dwlee918](https://t.me/@dwlee918)
 
-X: [@derricklee918](https://x.com/derricklee918)
+X: [@dwlee918](https://x.com/dwlee918)
